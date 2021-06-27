@@ -86,5 +86,5 @@ Data source: https://www.kaggle.com/pavansanagapati/african-literacy-rate<br>
 
 ## Visit here 👇
 https://public.tableau.com/profile/mathesh.kumar#!/
-
-
+<br><br><br>
+<p align="center">Thank You for visiting ❤</p>
