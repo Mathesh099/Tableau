@@ -12,69 +12,65 @@ Data source: https://www.kaggle.com/pavansanagapati/african-literacy-rate<br>
     <th>Male (%)</th>
   </tr>
   <tr>
-    <th>Cameroon</th>
-    <th>64.80</th>
-    <th>78.33</th>
+    <td>Cameroon</td>
+    <td>64.80</td>
+    <td>78.33</td>
   </tr>
   <tr>
-    <th>Central African Republic</th>
-    <th>24.36</th>
-    <th>50.71</th>
+    <td>Central African Republic</td>
+    <td>24.36</td>
+    <td>50.71</td>
   </tr>
   <tr>
-    <th>Ghana</th>
-    <th>65.29</th>
-    <th>78.35</th>
+    <td>Ghana</td>
+    <td>65.29</td>
+    <td>78.35</td>
   </tr>
   <tr>
-    <th>Guinea</th>
-    <th>12.19</th>
-    <th>36.79</th>
+    <td>Guinea</td>
+    <td>12.19</td>
+    <td>36.79</td>
   </tr>
   <tr>
-    <th>Malawi</th>
-    <th>51.25</th>
-    <th>72.10</th>
+    <td>Malawi</td>
+    <td>51.25</td>
+    <td>72.10</td>
   </tr>
   <tr>
-    <th>Mali</th>
-    <th>20.29</th>
-    <th>43.40</th>
+    <td>Mali</td>
+    <td>20.29</td>
+    <td>43.40</td>
   </tr>
   <tr>
-    <th>Rwanda</th>
-    <th>61.55</th>
-    <th>71.13</th>
+    <td>Rwanda</td>
+    <td>61.55</td>
+    <td>71.13</td>
   </tr>
   <tr>
-    <th>Seychelles</th>
-    <th>94.45</th>
-    <th>93.46</th>
+    <td>Seychelles</td>
+    <td>94.45</td>
+    <td>93.46</td>
+  </tr>
+
+  <tr>
+    <td>South Africa</td>
+    <td>91.71</td>
+    <td>94.14</td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>Swaziland</td>
+    <td>82.45</td>
+    <td>83.90</td>
   </tr>
   <tr>
-    <th>South Africa</th>
-    <th>91.71</th>
-    <th>94.14</th>
+    <td>Tanzania</td>
+    <td>60.75</td>
+    <td>75.47</td>
   </tr>
   <tr>
-    <th>Swaziland</th>
-    <th>82.45</th>
-    <th>83.90</th>
-  </tr>
-  <tr>
-    <th>Tanzania</th>
-    <th>60.75</th>
-    <th>75.47</th>
-  </tr>
-  <tr>
-    <th>Uganda</th>
-    <th>64.59</th>
-    <th>82.63</th>
+    <td>Uganda</td>
+    <td>64.59</td>
+    <td>82.63</td>
   </tr>
 </table>
 
